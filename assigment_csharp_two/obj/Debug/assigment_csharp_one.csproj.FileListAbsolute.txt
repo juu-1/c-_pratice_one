@@ -1,0 +1,11 @@
+C:\Users\Juuu\source\repos\assigment_csharp_one\assigment_csharp_one\bin\Debug\assigment_csharp_one.exe.config
+C:\Users\Juuu\source\repos\assigment_csharp_one\assigment_csharp_one\bin\Debug\assigment_csharp_one.exe
+C:\Users\Juuu\source\repos\assigment_csharp_one\assigment_csharp_one\bin\Debug\assigment_csharp_one.pdb
+C:\Users\Juuu\source\repos\assigment_csharp_one\assigment_csharp_one\obj\Debug\assigment_csharp_one.csproj.AssemblyReference.cache
+C:\Users\Juuu\source\repos\assigment_csharp_one\assigment_csharp_one\obj\Debug\assigment_csharp_one.Form1.resources
+C:\Users\Juuu\source\repos\assigment_csharp_one\assigment_csharp_one\obj\Debug\assigment_csharp_one.Properties.Resources.resources
+C:\Users\Juuu\source\repos\assigment_csharp_one\assigment_csharp_one\obj\Debug\assigment_csharp_one.csproj.GenerateResource.cache
+C:\Users\Juuu\source\repos\assigment_csharp_one\assigment_csharp_one\obj\Debug\assigment_csharp_one.csproj.CoreCompileInputs.cache
+C:\Users\Juuu\source\repos\assigment_csharp_one\assigment_csharp_one\obj\Debug\assigment_csharp_one.exe
+C:\Users\Juuu\source\repos\assigment_csharp_one\assigment_csharp_one\obj\Debug\assigment_csharp_one.pdb
+C:\Users\Juuu\source\repos\assigment_csharp_one\assigment_csharp_one\obj\Debug\assigment_csharp_one.exe.config
