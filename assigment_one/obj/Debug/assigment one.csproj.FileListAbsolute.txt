@@ -1,0 +1,11 @@
+C:\Users\Juuu\source\repos\assigment one\assigment one\bin\Debug\assigment one.exe.config
+C:\Users\Juuu\source\repos\assigment one\assigment one\bin\Debug\assigment one.exe
+C:\Users\Juuu\source\repos\assigment one\assigment one\bin\Debug\assigment one.pdb
+C:\Users\Juuu\source\repos\assigment one\assigment one\obj\Debug\assigment one.csproj.AssemblyReference.cache
+C:\Users\Juuu\source\repos\assigment one\assigment one\obj\Debug\assigment_one.Form1.resources
+C:\Users\Juuu\source\repos\assigment one\assigment one\obj\Debug\assigment_one.Properties.Resources.resources
+C:\Users\Juuu\source\repos\assigment one\assigment one\obj\Debug\assigment one.csproj.GenerateResource.cache
+C:\Users\Juuu\source\repos\assigment one\assigment one\obj\Debug\assigment one.csproj.CoreCompileInputs.cache
+C:\Users\Juuu\source\repos\assigment one\assigment one\obj\Debug\assigment one.exe
+C:\Users\Juuu\source\repos\assigment one\assigment one\obj\Debug\assigment one.pdb
+C:\Users\Juuu\source\repos\assigment one\assigment one\obj\Debug\assigment one.exe.config
