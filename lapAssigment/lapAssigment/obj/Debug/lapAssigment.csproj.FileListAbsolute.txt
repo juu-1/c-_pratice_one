@@ -1,0 +1,10 @@
+C:\Users\Juuu\source\repos\cshap_c1_practice\lapAssigment\lapAssigment\bin\Debug\lapAssigment.exe.config
+C:\Users\Juuu\source\repos\cshap_c1_practice\lapAssigment\lapAssigment\bin\Debug\lapAssigment.exe
+C:\Users\Juuu\source\repos\cshap_c1_practice\lapAssigment\lapAssigment\bin\Debug\lapAssigment.pdb
+C:\Users\Juuu\source\repos\cshap_c1_practice\lapAssigment\lapAssigment\obj\Debug\lapAssigment.csproj.AssemblyReference.cache
+C:\Users\Juuu\source\repos\cshap_c1_practice\lapAssigment\lapAssigment\obj\Debug\lapAssigment.Form1.resources
+C:\Users\Juuu\source\repos\cshap_c1_practice\lapAssigment\lapAssigment\obj\Debug\lapAssigment.Properties.Resources.resources
+C:\Users\Juuu\source\repos\cshap_c1_practice\lapAssigment\lapAssigment\obj\Debug\lapAssigment.csproj.GenerateResource.cache
+C:\Users\Juuu\source\repos\cshap_c1_practice\lapAssigment\lapAssigment\obj\Debug\lapAssigment.csproj.CoreCompileInputs.cache
+C:\Users\Juuu\source\repos\cshap_c1_practice\lapAssigment\lapAssigment\obj\Debug\lapAssigment.exe
+C:\Users\Juuu\source\repos\cshap_c1_practice\lapAssigment\lapAssigment\obj\Debug\lapAssigment.pdb
