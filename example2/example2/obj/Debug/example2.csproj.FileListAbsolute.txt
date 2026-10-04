@@ -1,0 +1,11 @@
+C:\Users\Juiweria\source\repos\example2\example2\obj\Debug\example2.csproj.AssemblyReference.cache
+C:\Users\Juiweria\source\repos\example2\example2\obj\Debug\example2.Form1.resources
+C:\Users\Juiweria\source\repos\example2\example2\obj\Debug\example2.Properties.Resources.resources
+C:\Users\Juiweria\source\repos\example2\example2\obj\Debug\example2.csproj.GenerateResource.cache
+C:\Users\Juiweria\source\repos\example2\example2\obj\Debug\example2.csproj.CoreCompileInputs.cache
+C:\Users\Juiweria\source\repos\example2\example2\bin\Debug\example2.exe.config
+C:\Users\Juiweria\source\repos\example2\example2\bin\Debug\example2.exe
+C:\Users\Juiweria\source\repos\example2\example2\bin\Debug\example2.pdb
+C:\Users\Juiweria\source\repos\example2\example2\obj\Debug\example2.exe
+C:\Users\Juiweria\source\repos\example2\example2\obj\Debug\example2.pdb
+C:\Users\Juiweria\source\repos\example2\example2\obj\Debug\example2.exe.config
