@@ -1,0 +1,10 @@
+C:\Users\Juiweria\source\repos\example_nasted_loop\example_nasted_loop\bin\Debug\example_nasted_loop.exe.config
+C:\Users\Juiweria\source\repos\example_nasted_loop\example_nasted_loop\bin\Debug\example_nasted_loop.exe
+C:\Users\Juiweria\source\repos\example_nasted_loop\example_nasted_loop\bin\Debug\example_nasted_loop.pdb
+C:\Users\Juiweria\source\repos\example_nasted_loop\example_nasted_loop\obj\Debug\example_nasted_loop.csproj.AssemblyReference.cache
+C:\Users\Juiweria\source\repos\example_nasted_loop\example_nasted_loop\obj\Debug\example_nasted_loop.Form1.resources
+C:\Users\Juiweria\source\repos\example_nasted_loop\example_nasted_loop\obj\Debug\example_nasted_loop.Properties.Resources.resources
+C:\Users\Juiweria\source\repos\example_nasted_loop\example_nasted_loop\obj\Debug\example_nasted_loop.csproj.GenerateResource.cache
+C:\Users\Juiweria\source\repos\example_nasted_loop\example_nasted_loop\obj\Debug\example_nasted_loop.csproj.CoreCompileInputs.cache
+C:\Users\Juiweria\source\repos\example_nasted_loop\example_nasted_loop\obj\Debug\example_nasted_loop.exe
+C:\Users\Juiweria\source\repos\example_nasted_loop\example_nasted_loop\obj\Debug\example_nasted_loop.pdb

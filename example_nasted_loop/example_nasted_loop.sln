@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37710.0 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "example_nasted_loop", "example_nasted_loop\example_nasted_loop.csproj", "{F7D27D5E-71C0-4363-8CE6-D9BE1BD430F8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7D27D5E-71C0-4363-8CE6-D9BE1BD430F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7D27D5E-71C0-4363-8CE6-D9BE1BD430F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7D27D5E-71C0-4363-8CE6-D9BE1BD430F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7D27D5E-71C0-4363-8CE6-D9BE1BD430F8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3AF3455B-4566-4D02-A3ED-CA0147BD57F5}
+	EndGlobalSection
+EndGlobal
