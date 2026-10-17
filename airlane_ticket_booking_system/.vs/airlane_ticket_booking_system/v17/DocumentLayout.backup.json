@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Juiweria\\source\\repos\\airlane_ticket_booking_system\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1184E76-9BD4-49A1-9CD8-31188B9DA9E2}|airlane_ticket_booking_system\\airlane_ticket_booking_system.csproj|c:\\users\\juiweria\\source\\repos\\airlane_ticket_booking_system\\airlane_ticket_booking_system\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A1184E76-9BD4-49A1-9CD8-31188B9DA9E2}|airlane_ticket_booking_system\\airlane_ticket_booking_system.csproj|solutionrelative:airlane_ticket_booking_system\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1184E76-9BD4-49A1-9CD8-31188B9DA9E2}|airlane_ticket_booking_system\\airlane_ticket_booking_system.csproj|c:\\users\\juiweria\\source\\repos\\airlane_ticket_booking_system\\airlane_ticket_booking_system\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1184E76-9BD4-49A1-9CD8-31188B9DA9E2}|airlane_ticket_booking_system\\airlane_ticket_booking_system.csproj|solutionrelative:airlane_ticket_booking_system\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Juiweria\\source\\repos\\airlane_ticket_booking_system\\airlane_ticket_booking_system\\Form1.cs",
+              "RelativeDocumentMoniker": "airlane_ticket_booking_system\\Form1.cs",
+              "ToolTip": "C:\\Users\\Juiweria\\source\\repos\\airlane_ticket_booking_system\\airlane_ticket_booking_system\\Form1.cs*",
+              "RelativeToolTip": "airlane_ticket_booking_system\\Form1.cs*",
+              "ViewState": "AgIAABUBAAAAAAAAAAAQwCYBAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-17T06:21:59.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Juiweria\\source\\repos\\airlane_ticket_booking_system\\airlane_ticket_booking_system\\Form1.cs",
+              "RelativeDocumentMoniker": "airlane_ticket_booking_system\\Form1.cs",
+              "ToolTip": "C:\\Users\\Juiweria\\source\\repos\\airlane_ticket_booking_system\\airlane_ticket_booking_system\\Form1.cs [Design]*",
+              "RelativeToolTip": "airlane_ticket_booking_system\\Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-17T06:13:50.329Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

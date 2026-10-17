@@ -1,0 +1,10 @@
+C:\Users\Juiweria\source\repos\airlane_ticket_booking_system\airlane_ticket_booking_system\bin\Debug\airlane_ticket_booking_system.exe.config
+C:\Users\Juiweria\source\repos\airlane_ticket_booking_system\airlane_ticket_booking_system\bin\Debug\airlane_ticket_booking_system.exe
+C:\Users\Juiweria\source\repos\airlane_ticket_booking_system\airlane_ticket_booking_system\bin\Debug\airlane_ticket_booking_system.pdb
+C:\Users\Juiweria\source\repos\airlane_ticket_booking_system\airlane_ticket_booking_system\obj\Debug\airlane_ticket_booking_system.csproj.AssemblyReference.cache
+C:\Users\Juiweria\source\repos\airlane_ticket_booking_system\airlane_ticket_booking_system\obj\Debug\airlane_ticket_booking_system.Form1.resources
+C:\Users\Juiweria\source\repos\airlane_ticket_booking_system\airlane_ticket_booking_system\obj\Debug\airlane_ticket_booking_system.Properties.Resources.resources
+C:\Users\Juiweria\source\repos\airlane_ticket_booking_system\airlane_ticket_booking_system\obj\Debug\airlane_ticket_booking_system.csproj.GenerateResource.cache
+C:\Users\Juiweria\source\repos\airlane_ticket_booking_system\airlane_ticket_booking_system\obj\Debug\airlane_ticket_booking_system.csproj.CoreCompileInputs.cache
+C:\Users\Juiweria\source\repos\airlane_ticket_booking_system\airlane_ticket_booking_system\obj\Debug\airlane_ticket_booking_system.exe
+C:\Users\Juiweria\source\repos\airlane_ticket_booking_system\airlane_ticket_booking_system\obj\Debug\airlane_ticket_booking_system.pdb
