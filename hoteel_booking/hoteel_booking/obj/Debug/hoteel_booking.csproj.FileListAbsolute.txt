@@ -1,0 +1,10 @@
+C:\Users\Juiweria\source\repos\hoteel_booking\hoteel_booking\bin\Debug\hoteel_booking.exe.config
+C:\Users\Juiweria\source\repos\hoteel_booking\hoteel_booking\bin\Debug\hoteel_booking.exe
+C:\Users\Juiweria\source\repos\hoteel_booking\hoteel_booking\bin\Debug\hoteel_booking.pdb
+C:\Users\Juiweria\source\repos\hoteel_booking\hoteel_booking\obj\Debug\hoteel_booking.csproj.AssemblyReference.cache
+C:\Users\Juiweria\source\repos\hoteel_booking\hoteel_booking\obj\Debug\hoteel_booking.Form1.resources
+C:\Users\Juiweria\source\repos\hoteel_booking\hoteel_booking\obj\Debug\hoteel_booking.Properties.Resources.resources
+C:\Users\Juiweria\source\repos\hoteel_booking\hoteel_booking\obj\Debug\hoteel_booking.csproj.GenerateResource.cache
+C:\Users\Juiweria\source\repos\hoteel_booking\hoteel_booking\obj\Debug\hoteel_booking.csproj.CoreCompileInputs.cache
+C:\Users\Juiweria\source\repos\hoteel_booking\hoteel_booking\obj\Debug\hoteel_booking.exe
+C:\Users\Juiweria\source\repos\hoteel_booking\hoteel_booking\obj\Debug\hoteel_booking.pdb
