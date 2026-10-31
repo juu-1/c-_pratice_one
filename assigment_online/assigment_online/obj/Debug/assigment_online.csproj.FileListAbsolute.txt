@@ -1,0 +1,11 @@
+C:\Users\Juiweria\source\repos\assigment_online\assigment_online\bin\Debug\assigment_online.exe.config
+C:\Users\Juiweria\source\repos\assigment_online\assigment_online\bin\Debug\assigment_online.exe
+C:\Users\Juiweria\source\repos\assigment_online\assigment_online\bin\Debug\assigment_online.pdb
+C:\Users\Juiweria\source\repos\assigment_online\assigment_online\obj\Debug\assigment_online.csproj.AssemblyReference.cache
+C:\Users\Juiweria\source\repos\assigment_online\assigment_online\obj\Debug\assigment_online.Form1.resources
+C:\Users\Juiweria\source\repos\assigment_online\assigment_online\obj\Debug\assigment_online.Properties.Resources.resources
+C:\Users\Juiweria\source\repos\assigment_online\assigment_online\obj\Debug\assigment_online.csproj.GenerateResource.cache
+C:\Users\Juiweria\source\repos\assigment_online\assigment_online\obj\Debug\assigment_online.csproj.CoreCompileInputs.cache
+C:\Users\Juiweria\source\repos\assigment_online\assigment_online\obj\Debug\assigment_online.exe
+C:\Users\Juiweria\source\repos\assigment_online\assigment_online\obj\Debug\assigment_online.pdb
+C:\Users\Juiweria\source\repos\assigment_online\assigment_online\obj\Debug\assigment_online.exe.config
